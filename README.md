@@ -11,4 +11,4 @@ This repository contains a complete end-to-end data warehouse built using Postgr
 
 ## Included Diagrams
 - ERD (erd.png)
-- Architecture Diagram (architecture.png)
+
